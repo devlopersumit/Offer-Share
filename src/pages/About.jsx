@@ -1,0 +1,3 @@
+// @ts-nocheck
+const About = () => <div className="min-h-[60vh] flex flex-col items-center justify-center text-center p-8 text-gray-700"><h1 className="text-2xl font-bold mb-4">About OfferShare</h1><p>OfferShare was built to help everyone save money and discover real, community-verified deals. We believe in transparency, trust, and the power of sharing. Join us and be part of the savings revolution!</p></div>;
+export default About; 
